@@ -5,7 +5,7 @@ A standalone distance meter built as the first working sub-module of the
 an HC-SR04 ultrasonic sensor and displays it live on a 20x4 I2C LCD.
 
 ## Demo
-*(Add photo or short video here — top-down wiring shot + screen showing a live reading)*
+![ARC Distance Meter Demo](./demo_photo_01.jpeg)
 
 ## Parts Used
 - Arduino Uno
